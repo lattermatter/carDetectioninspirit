@@ -1,0 +1,3 @@
+THIS PROJECT WAS MADE WITH THE HELP OF INSPIRIT AI
+
+The yolo weights file is not currently present in the directory. To use the program as intended, download the yolo_weights.h5 file from (https://drive.google.com/file/d/1WMlTU2O83fWAdfLBy0tUcHuFs-_nvgNo/view) and paste it into the program directory. Then uncomment lines 12-13 in the model.
